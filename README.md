@@ -1,8 +1,6 @@
-# Implementación del algoritmo selection sort.
+# Implementación del algoritmo selection sort
 
-Este programa ordena arreglos de números enteros usando el algoritmo [selection sort].
-
-El programa contiene algunos casos de prueba y no es interactivo. Está escrito en el lenguaje de programación [Kotlin] y para usarlo sólo se requiere tener instalada la [Máquina virtual de Java] (JVM). Para ejecutar el programa en Linux basta con descargar el archivo _sort.jar_, abrir la terminal en la ubicación de este archivo y ejecutar:
+Este programa ordena arreglos de números enteros usando el algoritmo [selection sort]. El programa contiene algunos casos de prueba y no es interactivo. Está escrito en el lenguaje de programación [Kotlin] y para usarlo sólo se requiere tener instalada la [Máquina virtual de Java] (JVM). Para ejecutar el programa en Linux basta con descargar el archivo _sort.jar_, abrir la terminal en la ubicación de este archivo y ejecutar:
 
 ```sh
 java -jar sort.jar
